@@ -1,0 +1,4 @@
+2024-09-16 19:31:32 - Function 'hello_world' called with arguments () {}. Returned: Hello World
+2024-09-16 19:31:32 - Function 'summator' called with arguments (2, 2) {}. Returned: 4
+2024-09-16 19:31:32 - Function 'div' called with arguments (6, 2) {}. Returned: 3.0
+2024-09-16 19:31:32 - Function 'summator' called with arguments (4.3,) {'b': 2.2}. Returned: 6.5

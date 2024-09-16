@@ -1,0 +1,5 @@
+2024-09-16 19:31:32 - Function: hello_world, Args: (), Kwargs: {}, Returned: Hello World
+2024-09-16 19:31:32 - Function: summator, Args: (2, 2), Kwargs: {}, Returned: 4
+2024-09-16 19:31:32 - Function: div, Args: (6, 2), Kwargs: {}, Returned: 3.0
+2024-09-16 19:31:32 - Function: summator, Args: (4.3,), Kwargs: {'b': 2.2}, Returned: 6.5
+2024-09-16 19:31:32 - Function: summator, Args: (), Kwargs: {'a': 0, 'b': 0}, Returned: 0
